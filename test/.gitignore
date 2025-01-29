@@ -1,0 +1,16 @@
+## Java
+target/
+.mtj.tmp/
+*.class
+*.war
+*.ear
+
+## Intellij
+out/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+## OS Specific
+.DS_Store
